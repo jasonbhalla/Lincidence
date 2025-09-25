@@ -1,4 +1,4 @@
-# Lincidence
-(**Lin**ear Spaces + **Incidence** Geometry)\
+# Algorithmic Generation of Linear Spaces and Combinatorial Structures in Incidence Geometry
+(**Linear** Spaces + **Incidence** Geometry)\
 \
-A research project regarding abstract linear spaces, algorithms to iteratively generate incidence structures, testing geometric axioms, exploring group-theoretic connections, combinatorics, graph theory, and computational experimentation.
+Python tools to construct and visualize abstract linear spaces, implement algorithms to iteratively generate incidence structures, test geometric axioms, and explore group-theoretic, combinatorial, graph-theoretic, and computational connections.

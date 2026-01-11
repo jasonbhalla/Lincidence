@@ -1,4 +1,4 @@
-![Lincidence Image](Assets/lincidence3.png)\
+![Lincidence Image](Assets/lincidence3.png)
 
 # Lincidence:
 ## Algorithmic Generation of Free Linear Spaces and Combinatorial Structures in Incidence Geometry
